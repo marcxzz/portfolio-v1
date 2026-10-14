@@ -1,13 +1,1 @@
-# To-Do's
-- change projects list
-- add more infos in contact section (location, email, phone)
-- improve responsivity
-- make 404/not found page with terminal-like texts (e.g. "> ERROR 404: page not found |")
-- customize scrollbar
-- change light theme colors for better contrast
-- more components for reusable and repetitive parts
-- hide tailwind classes in html code with custom css classes
-- improve SEO
-- use ::after for '>', '{', './' texts
-- fix animations with motion
-- optimize images
+## New portfolio under construction.

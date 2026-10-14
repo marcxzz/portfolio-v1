@@ -40,7 +40,7 @@ export default function TerminalStatus() {
     //     </span>
     //   </div>
     // </div>
-    <div className="terminal-status font-mono text-zinc-500">
+    <div className="terminal-status font-mono text-zinc-400/85" aria-hidden>
       <span className={visible ? "message visible" : "message"}>
         {messages[index]}
       </span>
